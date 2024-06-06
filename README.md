@@ -20,8 +20,8 @@ I'm an intern at Futurense Technologies, and every day, I tackle a new challenge
 ## 🛠️ What's Inside?
 
 Here's a sneak peek at what you'll find in this repository:
-- **There are two folders namely `py` for my python work, and `db` for my SQL or database related work.
-- 
+- **There are two folders namely `py` for my python work, and `db` for my SQL or database related work.**
+  
 ### Python 🐍
 - **Scripts**: From simple scripts to complex applications.
 - **Algorithms**: Sorting, searching, and everything in between.
