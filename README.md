@@ -20,7 +20,7 @@ I'm an intern at Futurense Technologies, and every day, I tackle a new challenge
 ## 🛠️ What's Inside?
 
 Here's a sneak peek at what you'll find in this repository:
-- **There are two branches namely `py` for my python work, and `db` for my SQL or database related work.
+- **There are two folders namely `py` for my python work, and `db` for my SQL or database related work.
 - 
 ### Python 🐍
 - **Scripts**: From simple scripts to complex applications.
@@ -37,7 +37,7 @@ Here's a sneak peek at what you'll find in this repository:
 
 ## 🤓 How to Use This Repo
 1. **Clone the Repo**: `git clone https://github.com/GriffinBlackbirdd/Futurense-Internship-.git`
-2. **Navigate to a Branch**: Switch to the `py` or `db` branch to find the respective files.
+2. **Navigate to a Folder**: Switch to the `py` or `db` folder to find the respective files.
 3. **Navigate to a Task**: Each task is neatly organized in its own folder.
 4. **Run the Code**: Follow the instructions in the README files within each task folder.
 5. **Profit**: Learn, laugh, and level up your coding skills!
