@@ -65,4 +65,7 @@ Happy coding! 🎉 and Happy Grading! 🎉 (to the Managers)
 
 ---
 
+Made with ❤️ by [Arreyan Hamid](https://github.com/GriffinBlackbirdd)
+For any inquiries or feedback, please contact [arreyanhamid@icloud.com](mailto:arreyanhamid@icloud.com).
+
 *Disclaimer: No actual bugs were harmed in the making of this repository. All bugs are purely fictional and any resemblance to real bugs, living or dead, is purely coincidental.*
