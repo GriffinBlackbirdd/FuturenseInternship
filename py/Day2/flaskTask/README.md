@@ -32,8 +32,7 @@ Make sure you have the following installed:
 3. **Set up environment variables**:
     Create a `.env` file in the root directory and add your environment variables:
     ```env
-    FLASK_APP=app.py
-    FLASK_ENV=development
+    GOOGLE_API_KEY = <Your Google API Key>
     ```
 
 ### Running the Application
