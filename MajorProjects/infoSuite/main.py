@@ -9,6 +9,7 @@ from langchain.chains import create_retrieval_chain
 from langchain.prompts import PromptTemplate
 from dotenv import load_dotenv
 import os
+
 load_dotenv()
 app = Flask(__name__)
 FOLDER_PATH = "db"
