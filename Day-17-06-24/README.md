@@ -1,4 +1,4 @@
-```markdown
+
 # 🐱 Cat Database Project
 
 Welcome to the Cat Database Project! This project demonstrates how to use SQLite in Python to manage a database of cats. 🐾
@@ -128,4 +128,4 @@ For any inquiries or feedback, please contact [arreyanhamid@icloud.com](mailto:a
 
 Happy coding! 🚀
 
-```
+
