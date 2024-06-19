@@ -187,4 +187,5 @@ JOIN Courses c ON e.CourseID = c.CourseID;
 
 Made with ❤️ by [Arreyan Hamid](https://github.com/GriffinBlackbirdd)
 For any inquiries or feedback, please contact [arreyanhamid@icloud.com](mailto:arreyanhamid@icloud.com).
+
 Happy querying! 😄
