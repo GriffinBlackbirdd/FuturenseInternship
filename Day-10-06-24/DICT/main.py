@@ -39,6 +39,7 @@ print(superheroes.values())
 # items():
 print(superheroes.items()) 
 
+print('get')
 # get(key, default=None): 
 print(superheroes.get('hero2', 'Not found'))  
 
