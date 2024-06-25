@@ -1,5 +1,4 @@
 ![Banner](https://qqeanlpfsgowrbzukhie.supabase.co/storage/v1/object/public/images/minionsNumpy.webp?t=2024-06-25T09%3A22%3A06.136Z)
-For any inquiries or feedback, please contact [arreyanhamid@icloud.com](mailto:arreyanhamid@icloud.com).)
 # 🥳 Minion Army Adventures with NumPy
 
 Welcome to the world of Gru and his minions! This script uses NumPy to perform various array operations while narrating a fun story about our minion army. Let's dive into the adventures of our minions as they steal the moon, organize parades, and more!
