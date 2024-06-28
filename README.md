@@ -1,3 +1,4 @@
+![Banner](https://dlmeqwbnyvguihvtcgat.supabase.co/storage/v1/object/public/eliteClub/DALL_E_2024-06-28_12.53.43_-_A_captivating_banner_image_that_represents_the__Alchemy_of_Code_._The_image_should_blend_elements_of_ancient_alchemy_with_modern_coding._Imagine_a_mys.webp?t=2024-06-28T07%3A24%3A32.057Z)
 # Internship Tasks
 ## Author: Arreyan Hamid
 ## Date: 2024-06-06
